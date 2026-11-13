@@ -9,13 +9,13 @@ namespace Tyuiu.ZalyaletdinovDE.Sprint4.Task6.V7
         {
             DataService ds = new DataService();
 
-            Console.Title = "Спринт #4 | Выполнил: Залялетдинов Д. Е. | РППб-26-1";
+            Console.Title = "Спринт #4 | Выполнил: Залялетдинов Д. Э. | РППб-26-1";
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* Спринт #4                                                               *");
             Console.WriteLine("* Тема: Класс Array                                                       *");
             Console.WriteLine("* Задание #6                                                              *");
             Console.WriteLine("* Вариант #7                                                              *");
-            Console.WriteLine("* Выполнил: Залялетдинов Д. Е. | РППб-26-1                                *");
+            Console.WriteLine("* Выполнил: Залялетдинов Д. Э. | РППб-26-1                                *");
             Console.WriteLine("***************************************************************************");
             Console.WriteLine("* УСЛОВИЕ:                                                                *");
             Console.WriteLine("* Дан строковый массив данных [\"Математика\", \"Физика\", \"Химия\",          *");
